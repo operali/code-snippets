@@ -1,3 +1,7 @@
+
+--- author: operali 2022-03-06
+--- desc: example of task_manager
+
 local tmlib = require('lib.task_manager')
 
 local wait = tmlib.wait
